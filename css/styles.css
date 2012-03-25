@@ -1,0 +1,96 @@
+#wizardharry 
+{
+    width: 80%;
+    margin-left:10px;
+    margin-right:auto;
+}
+#prestep {
+    clear:both;
+}
+.steps {
+    border: 1px solid #999;
+    margin-bottom: 10px;
+    padding: 4px;
+    }
+#stepOne {
+    clear:both;
+    }
+    
+#stepTwo {}
+#stepThree {clear:both; }
+.imageItem { max-width: 120px;
+             max-height: 120px;
+             overflow: hidden;
+             border: 1px #cfcfcf solid;             
+             float: left;
+            margin: 2px;
+             }
+ .imageItem:hover { 
+             border-color: #509610;
+
+             }
+
+#imagewrapper {clear:both;}
+
+.selectedImage {border: 3px solid #1C94C4}
+
+#textwrapper {clear:both;
+              height: 500px;              
+              overflow-x: hidden;
+              overflow-y: auto;
+              padding: 4px;
+              border: 1px solid #ccc;
+              margin: 2px;
+}
+
+.textItem {
+           margin: 6px;
+           padding: 10px;
+           border: 1px #cfcfcf solid;
+           overflow: hidden;
+           
+           }
+.textItem:hover {
+           border-color:#509610;
+           }
+
+.selectedText {border: 3px solid #1C94C4}        
+.sourceTitle {
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px; 
+    border: 1px solid #999;
+    padding: 6px;
+    }
+#urlform {
+font-size: 1em;
+width: 90%;
+border: 0px solid #000;
+margin: 6px;
+}
+.inputwrapper {
+width:290px; 
+-webkit-border-radius: 12px;
+-moz-border-radius: 12px;
+border-radius: 12px; 
+border: 1px solid #999;
+float:left;
+margin-top: 5px;
+margin-bottom: 4px;
+}
+.urlsubmit {float:left;}
+
+#reviewTitle {font-size: 1.2em; font-weight: bold; margin-bottom: 6px;}
+#reviewImage {float: left; margin-right: 10px;}
+#reviewCopy {min-height: 40px; margin: 6px;}
+
+.buttons {clear:both; float: right; margin-top: 10px;}
+
+.center { 
+    margin-bottom: 12px; 
+    text-align: center;    
+} 
+.center img { 
+    margin-left:auto;
+    margin-right:auto;   
+} 
