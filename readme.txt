@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: futileboy
 Donate link: http://www.ryanlane.com/donate/
-Tags: links, linkblog, posts, linking
+Tags: links, linkblog, posts, linking, pinning
 Requires at least: 2.0.2
 Tested up to: 2.1
 Stable tag: 1
@@ -10,17 +10,16 @@ LinkGrab-O-Matic, is a simple interface to quickly and easily post links to your
 
 == Description ==
 
-I couldn't find a simple way to just add links with a short description 
-to my blog without jumping through a lot of hoops. So I made this simple
-plugin that makes adding posts to your to site as a link blog post with 
-just a few steps.
+I couldn’t find a simple way to just add links with a short description to my blog without 
+jumping through a lot of hoops. So I made this simple plugin that makes adding posts to your 
+to site as a link blog post with just a few steps. That way you could have posts that like 
+the popular site Daring Fireball
 
-There's a simple wizard style interface that walks you through the process.
+There’s a simple wizard style interface that walks you through the process.
 
-Any image that is used from the source link will be added to the post and 
-set as the thumbnail. The image isn't added inline to the post because I 
-want you to have more control of how it was displayed. However the image it 
-will be in the Media gallery for you to insert.
+Any image that is used from the source link will be added to the post and set as the thumbnail. 
+The image isn’t added inline to the post because I want you to have more control of how it 
+was displayed. However the image will be imported in to the Media gallery for you to insert.
 
 == Installation ==
 
@@ -34,9 +33,10 @@ You haven't asked any yet, but when you do and they become frequent, I'll put th
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1.png` (or jpg, jpeg, gif)
-2. This is the second screen shot
+1. First add a URL. 
+2. Select an image from to use. 
+3. Select some text to include. 
+4. Review and edit before you create a post. 
 
 == Changelog ==
 
